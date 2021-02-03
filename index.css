@@ -1,0 +1,13 @@
+body{
+  background: black;
+  font-family: sans-serif;
+}
+
+.sharedstyle{
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  padding-bottom: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
